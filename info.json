@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "message": "",
-    "link": "https://connectwise.sharepoint.com/sites/USMDRSOC/SitePages/Threat-Report-Tool.aspx"
+    "version": "2.0",
+    "message": "- Latest agent version check now scoped to the current site.\r- Fixed Mac OS X alerts",
+    "link": "https://connectwise.sharepoint.com/sites/USMDRSOC/SitePages/S1-Threat-Alert-Template-Tool-Updating.aspx"
 }
